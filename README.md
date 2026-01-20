@@ -1,6 +1,11 @@
 # Radiotherapy-capacity-control
 # Variability-Aware Radiotherapy Scheduling & Capacity Control
 
+## Summary
+A variability-aware operational control layer for radiotherapy
+scheduling that contains disruption propagation without relying on
+duration prediction or optimization.
+
 ## Problem Context
 Radiotherapy departments operate under persistently high demand and
 tightly coupled workflows involving simulation, planning, and treatment
